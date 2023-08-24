@@ -1,0 +1,15 @@
+# Ignore artifacts:
+build
+coverage
+.angular
+dist
+src/scss
+src/assets
+
+**/*.js
+**/*.ts
+**/*.spec.ts
+**/*.json
+**/*.md
+**/*.css
+**/*.scss

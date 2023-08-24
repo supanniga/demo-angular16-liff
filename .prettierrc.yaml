@@ -1,0 +1,6 @@
+# .prettierrc or .prettierrc.yaml
+bracketSpacing: true
+bracketSameLine: true
+semi: true
+printWidth: 160
+trailingComma: "all"
